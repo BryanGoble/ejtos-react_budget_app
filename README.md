@@ -6,9 +6,9 @@ React-based Budget Application for IBM Full-Stack Developer Course on Coursera
 
 This is the final project for this course and had several steps to complete. I built on the Budget allocation application forked from IBMs' GitHub repo.
 
-In this project, I was given tasks to complete and render them into the budget allocation app. The completed Budget Allocation application page looks like the image below:
+In this project, I was given tasks to complete and render them into the budget allocation app. The completed Budget Allocation application page is demo'd below:
 
-![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0210EN-SkillsNetwork/labs/Final%20project-budget%20app/images/finalbudget.png)
+![Application Demo GIF](images\BudgetAppExample.gif)
 
 
 ## Scenario
